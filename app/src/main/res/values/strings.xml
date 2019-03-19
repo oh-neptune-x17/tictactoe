@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="X">X</string>
+    <string name="O">O</string>
+    <string name="winnero">Wygral O</string>
+    <string name="winnerx">Wygral X</string>
+    <string name="tictactoe">Tic Tac Toe</string>
+    <string name="website">Strona Wydziału Elektroniki</string>
+    <string name="winner">Gra w trakcie! </string>
+    <string name="koniecgry">Koniec gry! </string>
+    <string name="playagain">Czy chcesz zagrac jeszcze raz?</string>
+    <string name="tak">tak</string>
+    <string name="nie">nie</string>
+    <string name="remis">Remis!</string>
+
+</resources>
